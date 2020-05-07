@@ -1,0 +1,13 @@
+D:\dotnet_workspace\TicTacToe\bin\Debug\TicTacToe.exe.config
+D:\dotnet_workspace\TicTacToe\bin\Debug\TicTacToe.exe
+D:\dotnet_workspace\TicTacToe\bin\Debug\TicTacToe.pdb
+D:\dotnet_workspace\TicTacToe\obj\Debug\TicTacToe.csprojAssemblyReference.cache
+D:\dotnet_workspace\TicTacToe\obj\Debug\TicTacToe.Form1.resources
+D:\dotnet_workspace\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+D:\dotnet_workspace\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+D:\dotnet_workspace\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+D:\dotnet_workspace\TicTacToe\obj\Debug\TicTacToe.exe
+D:\dotnet_workspace\TicTacToe\obj\Debug\TicTacToe.pdb
+D:\dotnet_workspace\TicTacToe\bin\Debug\TicTacToeEngine.dll
+D:\dotnet_workspace\TicTacToe\bin\Debug\TicTacToeEngine.pdb
+D:\dotnet_workspace\TicTacToe\obj\Debug\TicTacToe.csproj.CopyComplete
